@@ -35,8 +35,7 @@ dependencies:
   cupertino_icons: ^1.0.2
   get: ^4.6.5
   get_consumer:
-    git:
-      url: git@github.com:hasanmhallak/get_consumer.git
+    path: ../
 
 dev_dependencies:
   flutter_test:

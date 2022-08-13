@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/counter_controller.dart';
 import 'package:get/get.dart';
 import 'package:get_consumer/get_consumer.dart';
+
+import 'counter_controller.dart';
 
 void main() {
   runApp(const MyApp());

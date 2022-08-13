@@ -84,11 +84,9 @@ packages:
   get_consumer:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: "201fdd2bd69981f5726bd777d09be3bdf020c0b2"
-      url: "git@github.com:hasanmhallak/get_consumer.git"
-    source: git
+      path: ".."
+      relative: true
+    source: path
     version: "0.0.1"
   lints:
     dependency: transitive
